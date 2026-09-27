@@ -2,3 +2,5 @@ streamlit
 scikit-learn==1.6.1
 pandas
 joblib
+python-3.12
+
